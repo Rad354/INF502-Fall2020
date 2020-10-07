@@ -23,15 +23,15 @@ Everything on this schedule *is subject to change* based on how the specific stu
 | 3  | 25-Aug |                                                       |                  | [PA1](assignments/pa01.md)|                                   |
 |    | 27-Aug |                           |                  |                    |  |
 | 4  |  1-Sep | [Git/GitHub](slides/lectureGit.pdf)                   |                  |[HW2](assignments/02_git.md)                           | HW1         |
-|    |  3-Sep |                                                       |                          |         |
-| 5  |  8-Sep | Python part 2 - ([slides](slides/Python_class2.pdf))  | files, exceptions|                          |        HW2 |
-|    | 10-Sep |                |                  |[HW3/4](assignments/03_dictionary_list.md)|    |
-| 6  | 15-Sep | [Jupyter Notebooks](slides/Jupyter.md)                |                  |                          |          |
-|    | 17-Sep | [In Class assignment](assignments/inClassSept10.md)   |                  |                          |          |
+|    |  3-Sep | Resources to learn more about Git: https://learngitbranching.js.org/ <br> [Git cheat sheet](https://ndpsoftware.com/git-cheatsheet.html)                                                     |                          |         |
+| 5  |  8-Sep |     |    |                          |        HW2 |
+|    | 10-Sep | Python part 2 - ([slides](slides/Python_class2.pdf)) <br>- [File Examples](documents/FileExamples.zip)  | files, exceptions               |[HW3/4](assignments/03_dictionary_list.md)|    |
+| 6  | 15-Sep |                |                  | * Python exercises:<br> - https://www.practicepython.org/ <br>-  https://holypython.com/beginner-python-exercises/  |       |
+|    | 17-Sep | [Jupyter Notebooks](slides/Jupyter.md)    |                  |                          |          |
 | 7  | 22-Sep | [Intro to object-orientation](notebooks/ObjectOrientation.ipynb) |       |                          |          |
 |    | 24-Sep |                                                       |                  |                          | HW3/4    |
 | 8  | 29-Sep | [InClass Assignment about OO](assignments/inClassSept29.md) |            |                          |          |
-|    |  1-Oct | Q&A                                                   |                  |                          |          |
+|    |  1-Oct | [InClass Assignment about OO](assignments/inClassSept29.md) - NO MEETING                                         |                  |                          |          |
 | 9  |  6-Oct | MID TERM                                              |                  |                          |          |
 |    |  8-Oct | MID TERM (follow up)                                  |                  |                          |   PA1    |
 | 10 | 13-Oct | Agile development: kanban; test-driven development [slides](slides/Agile.pdf) [examples-unitteest](examples/unittest.zip)|  |
